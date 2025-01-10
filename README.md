@@ -5,14 +5,14 @@ This project is a full-stack web application developed using **.NET Core Web API
 ---
 
 ## 📦 Technologies Used
-- **Backend:** .NET Core 7 Web API
+- **Backend:** .NET Core 9 Web API
 - **Frontend:** Angular 19
 - **Database:** SQL Server
 - **ORM:** Entity Framework Core
 - **Version Control:** Git & GitHub
 - **Package Manager:** npm
-- **Security:** HTTPS with Self-Signed Certificate Handling
-- **Tools:** Visual Studio, Postman, Swagger UI
+- **Security:** HTTPS with Self-Signed Certificate Handling, JWT
+- **Tools:** Visual Studio, Postman, Swagger UI, VS Code, JetBrains Rider 2024
 
 ---
 
@@ -101,9 +101,9 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ---
 
 ## 📧 Contact
-- **Developer:** Your Name
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Developer:** Ahmed Mohamed AboAlata
+- **Email:** ahmed_c44
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ahmedaboalata/)
 
 ---
 
