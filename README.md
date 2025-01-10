@@ -102,7 +102,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## 📧 Contact
 - **Developer:** Ahmed Mohamed AboAlata
-- **Email:** ahmed_c44
+- **Email:** ahmed_c44@outlook.com
 - **LinkedIn:** [Ahmed AboAlata](https://www.linkedin.com/in/ahmedaboalata/)
 
 ---
