@@ -1,0 +1,6 @@
+@MLG_Interview_HostAddress = http://localhost:5250
+
+GET {{MLG_Interview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
