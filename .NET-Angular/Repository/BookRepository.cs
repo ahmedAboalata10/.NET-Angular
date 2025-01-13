@@ -35,7 +35,7 @@ namespace MLG_Interview.Repository
             if (oldbook != null) 
             {
                 oldbook.Name = book.Name;
-                oldbook.Categoury = book.Categoury;
+                oldbook.Category = book.Category;
             }
             mLG_Context.SaveChanges();
             return book;
